@@ -1,9 +1,6 @@
-body {
-    --playback-logo-image: url('https://media-exp1.licdn.com/dms/image/C5103AQGRpRPGAPhB-Q/profile-displayphoto-shrink_200_200/0/1558527364033?e=1639008000&v=beta&t=RpVFBwg85Gi-jzUDv1wc8imFcYn5xbnHxQD8onujEkg');
-}
-cast-media-player {
+.bmpui-ui-skin-cast-receiver {
     --theme-hue: 100;
     --progress-color: rgb(0, 255, 0);
-    --splash-image: url('https://media-exp1.licdn.com/dms/image/C5103AQGRpRPGAPhB-Q/profile-displayphoto-shrink_200_200/0/1558527364033?e=1639008000&v=beta&t=RpVFBwg85Gi-jzUDv1wc8imFcYn5xbnHxQD8onujEkg');
+    --splash-image: url('https://www.ubuy.com.pl/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFpNkwxdlpqaUwuX0FDX1NMMTA1OF8uanBn.jpg');
     --splash-size: cover;
 }
